@@ -9,7 +9,7 @@ public class Main {
         //Short message to screen
         System.out.println("Programming with Dat'erne is fun");
         System.out.println("Hello World");
-        System.out.println("Go see Marvels What If");
+        System.out.println("Go see Marvels What If you aren't real?");
 
     }
 }
